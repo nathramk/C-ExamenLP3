@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">ExamenLp3</string>
+    <string name="action_settings">Settings</string>
+    <string name="wecome_my_app">welcome my app</string>
+    <string name="Enter_App">ingresar App</string>
+    <string name="Usuario_L">Usuario:</string>
+    <string name="Contraseña_L">Contraseña:</string>
+    <string name="User">User</string>
+    <string name="pasword">pasword</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="me_Olv">Me olvide clave</string>
+    <string name="Elija_opcion_pleace">Holaa :D</string>
+    <string name="cal_culadora">Calculadora</string>
+    <string name="Jue_go">Juego</string>
+    <string name="nada"></string>
+    <string name="contraseña_es">123456</string>
+    <string name="usuario_es">admin</string>
+    <string name="contra_es">password:</string>
+    <string name="user_es">user:</string>
+    <string name="return_loging">return login</string>
+
+    <string name="number_01">1</string>
+    <string name="number_02">2</string>
+    <string name="number_03">3</string>
+    <string name="number_04">4</string>
+    <string name="number_05">5</string>
+    <string name="number_06">6</string>
+    <string name="number_07">7</string>
+    <string name="number_08">8</string>
+    <string name="number_09">9</string>
+    <string name="number_00">0</string>
+
+    <string name="clean_limp">CE</string>
+    <string name="Limp_btn">C</string>
+
+    <string name="fact_x">x!</string>
+    <string name="potencia_x">^</string>
+    <string name="pi_x">π</string>
+    <string name="log_x">ln</string>
+    <string name="arcTan_x">Tan-1</string>
+    <string name="arcCos_x">Cos-1</string>
+    <string name="arcSen_x">sen-1</string>
+    <string name="seno_x">sin</string>
+    <string name="coseno_x">cos</string>
+    <string name="tangente_x">tan</string>
+    <string name="pocentaje">%</string>
+    <string name="dividir">/</string>
+    <string name="multiplicar">*</string>
+    <string name="sumar">+</string>
+    <string name="restar">-</string>
+    <string name="punto">.</string>
+    <string name="equals">=</string>
+    <string name="raiz">√</string>
+
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_app">APP</string>
+    <string name="title_activity_calculadora">Calculadora</string>
+    <string name="title_activity_juego">Juego</string>
+    <string name="title_activity_error">Error</string>
+</resources>
